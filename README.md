@@ -1,20 +1,6 @@
-<div align="center">
-
-# Varad Mandhare
-
-</div>
-
----
-
 ## 🧠 About Me
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-👋 Hi, I'm **Varad Mandhare** from India 🇮🇳  
-
-A passionate **Software & Mobile Application Developer** focused on building scalable and modern applications.
-
-I enjoy working with **Backend Development, REST APIs, Middleware, Spring Boot, DevOps workflows, CI/CD pipelines, Selenium Automation**, and exploring emerging technologies.
 
 Currently building projects around **Full Stack Development, System Design, Automation, and Scalable Architecture**.
 
@@ -104,9 +90,9 @@ Currently building projects around **Full Stack Development, System Design, Auto
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryaPhansalkar/AryaPhansalkar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryaPhansalkar/AryaPhansalkar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AryaPhansalkar/AryaPhansalkar/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varadha9/Varadha9/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varadha9/Varadha9/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Varadha9/Varadha9/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
@@ -123,8 +109,5 @@ Currently building projects around **Full Stack Development, System Design, Auto
 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varadmandhare924@gmail.com)
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
