@@ -4,6 +4,8 @@
 
 Currently building projects around **Full Stack Development, System Design, Automation, and Scalable Architecture**.
 
+Skilled in **Backend Development · REST APIs · Spring Boot · DevOps · CI/CD · Selenium Automation**.
+
 <br clear="right"/>
 
 ---
