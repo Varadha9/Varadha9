@@ -1,12 +1,10 @@
 ## 🧠 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I'm a **Software & Mobile Application Developer** who loves turning complex problems into clean, scalable solutions.
 
-Currently building projects around **Full Stack Development, System Design, Automation, and Scalable Architecture**.
+From crafting **REST APIs** and **Spring Boot** backends to automating pipelines with **Jenkins & Selenium** — I build things end to end.
 
-Skilled in **Backend Development · REST APIs · Spring Boot · DevOps · CI/CD · Selenium Automation**.
-
-<br clear="right"/>
+Currently exploring **System Design, Full Stack Architecture, and DevOps workflows**.
 
 ---
 
