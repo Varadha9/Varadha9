@@ -85,11 +85,11 @@ Backend-focused developer passionate about building scalable systems and product
 
 <br/><br/>
 
-### 🐍 Snake
+### 👾 Pac-Man
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varadha9/Varadha9/output/snake-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varadha9/Varadha9/output/snake-contribution-graph.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Varadha9/Varadha9/output/snake-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varadha9/Varadha9/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varadha9/Varadha9/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Varadha9/Varadha9/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
