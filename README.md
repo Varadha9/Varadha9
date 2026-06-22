@@ -98,16 +98,6 @@ Skilled in **Backend Development · REST APIs · Spring Boot · DevOps · CI/CD 
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Varadha9/Varadha9/output/snake-contribution-graph.svg">
 </picture>
 
-### 👾 Pac-Man
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varadha9/Varadha9/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varadha9/Varadha9/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Varadha9/Varadha9/output/pacman-contribution-graph.svg">
-</picture>
-
-### 📊 Activity Graph
-[![Varad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Varadha9&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---
