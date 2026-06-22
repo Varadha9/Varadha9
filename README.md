@@ -1,8 +1,6 @@
 ## 🧠 About Me
 
-Currently building projects around **Full Stack Development, System Design, Automation, and Scalable Architecture**.
-
-Skilled in **Backend Development · REST APIs · Spring Boot · DevOps · CI/CD · Selenium Automation**.
+Backend-focused developer passionate about building scalable systems and production-ready applications. Skilled in Backend Development, REST APIs, Spring Boot, DevOps workflows, CI/CD pipelines, and Selenium Automation. Currently exploring Full Stack Development, System Design, Automation, and Scalable Architecture. 🚀
 
 ---
 
